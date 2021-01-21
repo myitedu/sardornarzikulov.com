@@ -18,7 +18,7 @@ trait MasterTraits{
         $isMailSent = Mail::send($template, ['data' => $data],
             function ($m) use ($data) {
                 $data['template'] = $data['template'] ?? 'email.general';
-                $admin_email = $data['email']??'info@myitedu.us';
+                $admin_email = $data['email']??'sardornarzikulov94@gmail.com';
                 $subject = $data['subject'] ?? 'An important message from Admin';
                 $user = $data['user'];
                 $m->from($admin_email, $data['name']);
