@@ -165,7 +165,7 @@
                                             Specialties: PHP 7x, JQuery, JavaScript, HTML, SQL, XML, GitHub, SSH
                                         </p>
                                         <div class="about-links">
-                                            <a href="/word/resume.docx" class="base-btn1">Download CV</a>
+                                            <a href="/word/resume.pdf" class="base-btn1">Download CV</a>
                                         </div>
                                     </div>
                                 </div>
@@ -347,12 +347,12 @@
                             <div class="education-list">
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
-                                        <span>2020</span>
+                                        <span>2018</span>
                                     </div>
                                     <h4 class="university-name">
                                         MYITEducation
                                     </h4>
-                                    <p class="degree">Software Engineer </p>
+                                    <p class="degree">Full stack development </p>
                                 </div>
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
@@ -361,7 +361,7 @@
                                     <h4 class="university-name">
                                         Bangor University
                                     </h4>
-                                    <p class="degree">BSc (Hons) in Banking and Finance </p>
+                                    <p class="degree">Bachelor's Degree </p>
                                 </div>
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
@@ -385,16 +385,16 @@
                             <div class="education-list">
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
-                                        <span>2020-To Present</span>
+                                        <span>2019-To Present</span>
                                     </div>
                                     <h4 class="university-name">
                                         MYITEDU, LLC
                                     </h4>
-                                    <p class="degree">Software Engineer</p>
+                                    <p class="degree">Full stack developer</p>
                                 </div>
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
-                                        <span>2019-2020</span>
+                                        <span>2018-2019</span>
                                     </div>
                                     <h4 class="university-name">
                                         DM World Transportation, LLC
@@ -403,10 +403,10 @@
                                 </div>
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
-                                        <span>2018-2019</span>
+                                        <span>2017-2018</span>
                                     </div>
                                     <h4 class="university-name">
-                                        IDB(Islamic Development Bank)
+                                        IsDB
                                     </h4>
                                     <p class="degree"> Internship</p>
                                 </div>
@@ -684,8 +684,8 @@
                             </a>
                         </div>
                         <div class="slider-item">
-                            <a href="#">
-                                <img src="/gfolio/{{$theme}}/assets/images/partner/3.png" alt="">
+                            <a href="http://newtasteofitaly.com/">
+                                <img src="/gfolio/{{$theme}}/assets/images/partner/kudil.png" alt="">
                             </a>
                         </div>
                         <div class="slider-item">
@@ -755,8 +755,8 @@
                                     </div>
                                     <div class="content">
                                         <p>
-                                            Believed attentive assisted picture sharpness to I to she waved the are
-                                            and slide understand the that set task. The you due back
+                                            We would like to express our satisfaction on the cooperation regarding the development of our web application. Sardor and the development team did a very professional job. We are satisfied with the solution given to us and with the communication flow through the project.
+                                            We would like to recommend Sardor Narzikulov and his development team. We look forward to working with them in future projects.
                                         </p>
                                     </div>
                                     <div class="reviewr">
@@ -768,7 +768,9 @@
                                                 Jon Toshmatov
                                             </h4>
                                             <p>
-                                                CEO at MYITEDU, LLC
+                                                CTO & Instructor
+                                                <br>
+                                                at MYITEDU, LLC
                                             </p>
                                         </div>
                                     </div>
@@ -791,14 +793,16 @@
                                     </div>
                                     <div class="reviewr">
                                         <div class="img">
-                                            <img src="/gfolio/{{$theme}}/assets/images/reviewr/p2.png" alt="">
+                                            <img src="/gfolio/{{$theme}}/assets/images/reviewr/lisahall.png" alt="">
                                         </div>
                                         <div class="content">
                                             <h4 class="name">
-                                                Alexander
+                                                Lisa Hall
                                             </h4>
                                             <p>
-                                                CEO at DER
+                                                Director of Sales/Marketing
+                                                <br>
+                                                at MYITEDU, LLC
                                             </p>
                                         </div>
                                     </div>
@@ -828,7 +832,9 @@
                                                 Khasan Erkinov
                                             </h4>
                                             <p>
-                                                Software Engineer at MYITEDU, LLC
+                                                Software Engineer
+                                                <br>
+                                                at MYITEDU, LLC
                                             </p>
                                         </div>
                                     </div>
